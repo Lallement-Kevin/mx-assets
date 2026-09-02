@@ -1,10 +1,14 @@
 {
-  "name": "EduChain: Anchor Smart Contract",
-  "description": "Smart Contract registry serving as a proof-of-existence log for student curriculums, courses, and educational documents.",
+  "name": "EduChain: Anchor Smart Contract (deprecated)",
+  "description": "Smart Contract registry serving as a proof-of-existence log for student curriculums, courses, and educational documents. (Deprecated in favor of direct EduChain SEAL NFT provenance issuance).",
   "icon": "educhain",
   "website": "https://github.com/DevmindRO/eduChain",
   "social": {
     "github": "https://github.com/DevmindRO/eduChain"
   },
-  "tags": ["dapp", "smartcontract"]
+  "tags": [
+    "dapp",
+    "smartcontract",
+    "deprecated"
+  ]
 }
