@@ -1,16 +1,14 @@
 {
-  "name": "DinoVox: deprecated marketplace",
-  "description": "DinoVox deprecated marketplace",
+  "website": "https://www.dinovox.com/",
+  "description": "VoxEGLD is an interest-bearing liquid staking token representing EGLD staked via Dinovox. It auto-compounds staking rewards into its value while remaining fully composable across DeFi protocols.",
   "social": {
     "blog": "https://medium.com/dinovox",
     "twitter": "https://twitter.com/TheDinoVox",
     "whitepaper": "https://www.dinovox.com/assets/pdf/whitepaper_fr.pdf",
-    "website": "https://www.dinovox.com/",
     "discord": "https://discord.com/invite/thedinovox",
     "facebook": "https://www.facebook.com/TheDinoVox",
     "telegram": "https://t.me/thedinovox",
     "instagram": "https://www.instagram.com/jointhedinovox/"
   },
-  "tags": ["dinovox", "deprecated", "graou"],
-  "icon": "dinovox"
+  "status": "active"
 }
